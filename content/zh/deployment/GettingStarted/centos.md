@@ -14,7 +14,7 @@ type: docs
 ```bash
 sudo su root
 cd
-wget https://www.peatsuki.com/sh/InstallFVTT.sh --no-check-certificate
+wget https://sh.peatsuki.com/fvtt/InstallFVTT.sh --no-check-certificate
 sh InstallFVTT.sh
 ```
 [官网地址](https://foundryvtt.com/) 登录以购买的账户以获取下载链接。
